@@ -8,15 +8,12 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['390371717717', 'nobody|'],
-  ['393518398856', 'nobody|'],
-  ['393755775755', 'nobody|'],
-  ['393755575577', 'nobody|'],
-  ['33760536110', 'nobody|'],
+  ['393279338432', 'SIMO|'],
+ 
 ]
-global.suittag = ['390371717717'] 
-global.prems = ['390371717717'] 
-global.reportes_solicitudes = ['390371717717']
+global.suittag = ['393279338432'] 
+global.prems = ['393279338432'] 
+global.reportes_solicitudes = ['393279338432']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★ცơɬῳɧąıɬą★'
@@ -50,7 +47,7 @@ global.mysticbot = 'https://github.com/Fabri115/botwhaita'
 global.waitt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waittt = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waitttt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
-global.nomorown = '393518398856'
+global.nomorown = '393279338432'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––╔'
 global.cmenur = '╝––––––❖'
